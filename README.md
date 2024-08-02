@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently pursuing a Bachelor of Engineering in Computer Science at MSU Baroda.
+I'm currently pursuing a Bachelor of Engineering in Computer Science at The Maharaja Sayajirao University of Baroda.
 
 ## My academic journey has equipped me with proficiency in:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
