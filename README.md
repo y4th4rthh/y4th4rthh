@@ -53,9 +53,9 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/y4th4rthh)
 
 <!-- Profile views counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=y4th4rthh&color=blueviolet&style=flat-square" alt="Profile views" />
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=y4th4rthh&color=white&style=flat-square" alt="Profile views" />
 </div>
 
 ---
-<div align="center">⭐️ From <a href="https://github.com/y4th4rthh">y4th4rthh</a></div>
+<div align="left">⭐️ From <a href="https://github.com/y4th4rthh">y4th4rthh</a></div>
