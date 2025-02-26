@@ -34,15 +34,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y4th4rthh&show_icons=true&theme=radical" alt="GitHub Stats" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=y4th4rthh&show_icons=true&theme=graywhite" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4th4rthh&theme=dark" alt="GitHub Streak" />
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4th4rthh&theme=graywhite" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4th4rthh&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
