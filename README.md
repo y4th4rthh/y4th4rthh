@@ -38,11 +38,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### Languages Used
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y4th4rthh&layout=compact&theme=tokyonight)](https://github.com/y4th4rthh)
-
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatharth-patel-2505b4288)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hesusandventinggg)
