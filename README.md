@@ -40,7 +40,7 @@
 
 ### Languages Used
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=y4th4rthh)](https://github.com/anuraghazra/github-readme-stats)
+[![Yatharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=y4th4rthh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Connect with me
