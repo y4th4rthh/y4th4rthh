@@ -62,76 +62,7 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=y4th4rthh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4th4rthh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4th4rthh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=y4th4rthh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=y4th4rthh&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/y4th4rthh/y4th4rthh/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-<!--
-  The snake needs a GitHub Action to generate it. Add this file to your profile repo
-  at .github/workflows/snake.yml, then run it once from the Actions tab:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  permissions:
-    contents: write
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
----
-
-## 🚀 Featured Projects
-
-<!-- Replace these with your own pinned repos -->
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=y4th4rthh&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/y4th4rthh/neura.ai-releases)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=y4th4rthh&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/y4th4rthh/electron-app-generator)
 
 </div>
 
