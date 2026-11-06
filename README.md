@@ -70,7 +70,7 @@
 
 ## 🎯 Currently
 
-- 🔭 Working on: _your current project_
+- 🔭 Working on: _AutoGrade: Rubric Based Automated Evaluation_
 - 🌱 Learning: _Go, system design, DevOps_
 - 🎯 Goal: _contribute to open source & land a great SDE role_
 
