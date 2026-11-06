@@ -130,8 +130,8 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=y4th4rthh&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/y4th4rthh/YOUR_REPO_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=y4th4rthh&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/y4th4rthh/YOUR_REPO_2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=y4th4rthh&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/y4th4rthh/neura.ai-releases)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=y4th4rthh&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/y4th4rthh/electron-app-generator)
 
 </div>
 
